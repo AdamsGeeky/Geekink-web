@@ -23,7 +23,7 @@ A client is a device or program that requests a service. Your browser—such as 
 A server is a computer or program that responds to requests. A web server stores or retrieves website content and sends it to clients.
 ---
 * What are ISP and DNS?
->- ISP ISP means Internet Service Provider. It’s a company that connects you to the internet, such as through home broadband or mobile data.
+>- ISP means Internet Service Provider. It’s a company that connects you to the internet, such as through home broadband or mobile data.
 >- DNS (Domain Name System) translates easy-to-remember names like example.com into IP addresses that computers use to connect.
 
 [Web Logo!](./imgg/web-design-technology-browsing-programming-concept.jpg)
