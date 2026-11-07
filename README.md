@@ -25,6 +25,6 @@ A server is a computer or program that responds to requests. A web server stores
 * What are IP and DNS?
 >- IP (Internet Protocol) is the system for addressing devices on a network.
 An IP address is a number, such as 203.0.113.10, that helps data reach the right device. (“IPS” may mean intrusion prevention system in cybersecurity, but in this web context you probably mean IP.)
-
-[Web Logo!](./we
 >- DNS (Domain Name System) translates easy-to-remember names like example.com into IP addresses that computers use to connect.
+
+[Web Logo!](./imgg/web-design-technology-browsing-programming-concept.jpg)
